@@ -1,5 +1,6 @@
 # To-Do-App
 My to-do list application
+
  This application is designed to take in tasks by the user and log them on the page.
  
  It gives a welcome page where a click on the 'here' link takes you to a personalised browser-unique task list(local storage).
